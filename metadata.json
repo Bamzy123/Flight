@@ -1,0 +1,5 @@
+{
+  "name": "Navigation Bar UI",
+  "description": "A responsive navigation bar component built with React, TypeScript, and Tailwind CSS, inspired by a modern UI design. It features a search bar, navigation links with icons, user actions, and a profile section.",
+  "requestFramePermissions": []
+}
